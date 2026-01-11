@@ -1,7 +1,7 @@
 # 2061 - As Abas de Pericles - beecrowd
 
 def calc(a : int, x : int):
-    for i in range(x):
+    for _ in range(x):
         c = str(input())
         if c == "fechou": a += 1
         if c == "clicou": a -= 1
