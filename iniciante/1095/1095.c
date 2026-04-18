@@ -9,7 +9,8 @@ int main(void)
 	while (j >= 0)
 	{
 		printf("I=%d J=%d\n", i, j);
-		j-=5; i+=3;
+		j-=5;
+		i+=3;
 	}
 
 	return 0;
