@@ -7,10 +7,7 @@ const A = parseFloat(lines[0]);
 const B = parseFloat(lines[1]);
 const C = parseFloat(lines[2]);
 
-const wA = 2, wB = 3, wC = 5;
-const sW = wA + wB + wC;
+const MEDIA = (A * 2 + B * 3 + C * 5) / 10;
 
-const MEDIA = ((A * wA) + (B * wB) + (C * wC)) / sW;
-
-console.log('MEDIA = ' + MEDIA.toFixed(1));
+console.log(`MEDIA = ${MEDIA.toFixed(1)}`);
 
