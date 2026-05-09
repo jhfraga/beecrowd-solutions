@@ -9,4 +9,3 @@ const raio = parseFloat(lines[0]);
 const area = n * Math.pow(raio, 2);
 
 console.log(`A=${area.toFixed(4)}`);
-
