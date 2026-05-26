@@ -15,14 +15,14 @@ Neste repositório, você encontrará soluções desenvolvidas em:
 ## 📂 Como o repositório está organizado?
 Para facilitar a navegação, as soluções estão organizadas pelo número e nome da categoria original do site Beecrowd:
 
-📁 iniciante
-    ├──📁 1000
-        ├── 📄 1000.py
-        ├── 📄 1000.c
-        ├── 📄 1000.js
-📁 Ad-Hoc
-📁 Strings
-📁 Estruturas e Bibliotecas
+📁 iniciante <br>
+    ├──📁 1000 <br>
+        ├── 📄 1000.py <br>
+        ├── 📄 1000.c  <br>
+        ├── 📄 1000.js <br>
+📁 Ad-Hoc <br>
+📁 Strings <br>
+📁 Estruturas e Bibliotecas <br>
 
 
 ## ⚙️ Como executar os códigos
